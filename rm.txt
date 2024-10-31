@@ -1,0 +1,6 @@
+attackers
+black hat
+white hat
+blue hat
+grey hat
+red hat
